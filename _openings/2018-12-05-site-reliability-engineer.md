@@ -43,7 +43,7 @@ Science, Electronics) and/or comparable work experience/certification.
 - Expert level Linux admin skills.
 - In depth knowledge of: GCP, Kubernetes, Docker, Helm, LAN and WAN Networking, Continuous Integration, 
 Automated Testing, firewalling, DNS, QoS, CDN, Caching Datastores, Webservers, LDAP and email.
-- Proficient in two or more of the following programming languages: C, PHP, Python, Shell, Javascript, PL/SQL.
+- Proficient in one or more of the following programming languages: C, PHP, Python, Shell, Javascript, PL/SQL.
 
 ### Nice to have
 
