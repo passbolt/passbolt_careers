@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   installation tutorials, blueprints for developers, and more!
 
 baseurl: ""
-url: "https://careers.passbolt.com"
+url: "https://passbolt.github.io/passbolt_careers/"
 
 twitter_username: passbolt
 github_username:  passbolt
