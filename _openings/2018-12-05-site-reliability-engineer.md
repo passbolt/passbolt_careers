@@ -15,9 +15,6 @@ You will take an active part to design, develop, test and maintain highly-availa
 secure and sustainable IT services. You will join a growing and dynamic team committed to provide an 
 exceptional experience to all passbolt community members.
 
-To facilitate integration with passbolt clients (browser, command line interface and in the future mobile) 
-an understanding of front-end technologies is also required.
-
 ### Main responsibilities
 
 - Engage in and improve the whole lifecycle of passbolt highly available services — from inception and design, 
