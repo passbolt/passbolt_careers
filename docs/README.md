@@ -33,15 +33,8 @@ bundle exec jekyll build
 ```
 
 ### Editing the look and feel
-Do not edit the style directly by editing the CSS on this repository.
-Passbolt help relies on [passbolt styleguide](https://github.com/passbolt/passbolt_styleguide).
-If you want to extend the styles make a pull request on the styleguide and apply the latest version
-of the styleguide to passbolt help. This is to ensure we provide a consistent user experience accross 
-all the passbolt websites.
-
-Since the styleguide is distributed as a npm module you can link your local passbolt help to your custom 
-styleguide to test changes and extend the look and feel. 
-See [npm-link](https://docs.npmjs.com/cli/link) for more information.
+The main stylesheet is the same than the help site, which in turn depends on [passbolt styleguide](https://github.com/passbolt/passbolt_styleguide)
+You can add custom additional code in `careers.css` in the `assets` section.
 
 ### Adding images
 Similarly if you want to add images to this site make sure you do not include them in assets folders that are
