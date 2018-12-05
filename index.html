@@ -1,0 +1,30 @@
+---
+layout: home
+---
+<div class="panel main">
+    <div class="panel left">
+        {% include sidebar/main.html selected=page.slug %}
+    </div>
+    <div class="panel middle">
+        <div class="grid grid-responsive-12">
+            <article>
+            {% include breadcrumbs/default.html %}
+            <div class="row">
+                <div class="col7">
+                    <h1>Looking for a new career opportunity?</h1>
+                    <h2>We are an open, passionate and global community that builds solutions to security and privacy problems. Come join us!</h2>
+                    {% include openings.html %}
+                    <p>
+                        You cannot find the position you are looking for? Feel free to send your resume
+                        and a cover letter explaining what you would like to be working on at
+                        <a href="mailto:careers@passbolt.com">careers@passbolt.com</a>.
+                    </p>
+                </div>
+                <div class="col4 push1 last">
+                    <img src="{{ 'assets/img/careers/careers.png' | absolute_url }}" alt="{{ include.legend }}" style="max-width:380px;margin-top:3em;"/>
+                </div>
+            </div>
+            </article>
+        </div>
+    </div>
+</div>

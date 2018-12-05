@@ -1,0 +1,19 @@
+<ul class="jobs-list">
+    {% for opening in site.openings reversed %}
+    <li>
+        <a href="{{ opening.url | absolute_url }}">
+            <span class="position">{{ opening.title }}</span>
+            <span class="location">
+                {% for location in opening.locations %}
+                {% if location == opening.locations.last%}
+                {{ location }}
+                {% else %}
+                {{ location }} /
+                {% endif %}
+                {% endfor %}
+            </span>
+            <span class="team">{{ opening.team }}</span>
+        </a>
+    </li>
+    {% endfor %}
+</ul>

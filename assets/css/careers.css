@@ -1,0 +1,44 @@
+.careers .jobs-list {
+    margin-top:2em;
+    margin-bottom:2em;
+}
+.careers .jobs-list li{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.careers .jobs-list a {
+    border:1px solid #DDD;
+    margin:1em 0 .5em 0;
+    padding:.75em 1em ;
+    display:block;
+    border-radius:3px;
+}
+.careers .jobs-list a:hover {
+    border:1px solid #CCC;
+}
+.careers .jobs-list .position {
+    font-weight: bold;
+}
+.careers .jobs-list .team {
+    color:#AAA;
+    float:right;
+    margin-right:2em;
+}
+.careers .jobs-list .location {
+    float:right;
+    color:#888;
+}
+
+.careers .perks li{
+    max-width:650px;
+    list-style: none;
+    margin:0;
+    clear:both;
+    padding:1em 0;
+}
+.careers .perks .fa {
+    font-size: 3.5em;
+    float:left;
+    padding-right:.5em;
+}

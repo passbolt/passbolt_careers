@@ -1,0 +1,53 @@
+{
+"https-www-passbolt-com-privacy": {
+"title": "Privacy Policy",
+"category": "legal",
+"content": "This Privacy Policy is effective with respect to any data that we’ve collected, or collect, about and/or from you, according to our Terms of Service.",
+"url": "https://www.passbolt.com/privacy"
+},"https-www-passbolt-com-tos": {
+"title": "Terms and conditions of service",
+"category": "legal",
+"content": "This website, www.passbolt.com and its subdomains such as help.passbolt.com (collectively referred to as the \"Site\" in these Terms of Service) is owned and operated by Passbolt SARL (\"we\", \"us\" or \"Passbolt\"). By using and accessing our Site, you (\"you\", \"user\" or, \"end user\") agree to these Terms of Service (collectively, the \"Terms of Service\", “Terms and conditions” or \"Agreement\").",
+"url": "https://www.passbolt.com/tos"
+},"https-www-passbolt-com-cla": {
+"title": "Contributor License Agreement",
+"category": "legal",
+"content": "At passbolt we are required to have agreement with everyone who submit contributions, in order to make sure that we, and the user of our software, are legally entitled to distribute your contributed code anywhere in the world. In effect, you still own the copyright but you are giving us a licence. You retain the right to modify your code and use it in other projects.",
+"url": "https://www.passbolt.com/cla"
+},"https-www-passbolt-com-credits": {
+"title": "Credits",
+"category": "legal",
+"content": "Passbolt could not exist without the support of the open source community and patience of our families and friends. A special thank you to all of you who gave us a hand and are spreading the word.",
+"url": "https://www.passbolt.com/credits"
+},
+"openings-product-designer-html": {
+"title": "Designer (UX/UI)",
+"category": "",
+"content": "Remote / Luxembourg - FulltimePassbolt is seeking a designer with a background in web design. The successful candidate will have a portfolio demonstrating their skills, and experience collaborating with web developers. If you are passionate about security, open source and can craft elegant user interfaces we want to hear from you!Here is some example of current and upcoming work. The functionalities mentioned in the product roadmap. A mobile client for passbolt. An upgrade / refresh of our style guide.Main responsibilities Document user needs using personas and user stories. Create wireframes and user flows to help refine requirements and to communicate them to web developers. Facilitate design discussion with the community to help drive decisions. Iteratively extend passbolt styleguide.Required qualifications A strong portfolio of web design work samples, including mobile and responsive sites. 3+ years of professional design experience. Fluent in English, both verbal and written and preferably one other language....",
+"url": "http://localhost:4000/openings/product/designer.html"
+},
+"openings-product-font-end-developer-html": {
+"title": "Front-end Developer (JS/CSS)",
+"category": "",
+"content": "Remote / Luxembourg - FulltimePassbolt is hiring front-end developers with a knack for design to work on its flagship product.You will have the opportunity to work with on a wide range of new features andhelp support the growing community of users and contributors.Here is some example of current and upcoming work. The functionalities mentioned in the product roadmap. The migration of our front end framework from CanJS to React. An upgrade / refresh of our front-end style guide. A customer self-service portal (to contact support, download an invoice, etc.).Main responsibilities Engage in the product lifecycle as whole — from inception and design, through testing, development and support. Translate requirements and wireframes into fully functioning features. Identify front-end performance bottlenecks and propose fixes. Implement experiments to improve user experience on the public website. Write unit tests in order to prevent visual and performance regressions. Answer the community questions and help troubleshoot...",
+"url": "http://localhost:4000/openings/product/font-end-developer.html"
+},
+"openings-product-javascript-developer-html": {
+"title": "Software Developer (JS)",
+"category": "",
+"content": "Remote / Luxembourg - FulltimePassbolt is hiring a Javascript developer to design, extend and maintain our flagship product.Your primary focus will on the client side logic (browser, command line interface and mobile), ensuring high level of security, performance and responsiveness.Here is some example of current and upcoming work. The functionalities mentioned in the product roadmap. The migration of our front end framework from CanJS to React. Passbolt mobile and desktop clientsMain responsibilities Engage in the product lifecycle as whole — from inception and design, through testing, development and support. Participate to the software analysis and design in order to provide detailed functional and technical specifications; Develop, deploy, maintain and improve software. Answer the community questions and help troubleshoot issues. Write functional and unit tests in order to perform predictable product build and rapid release cycles. Share back findings, lesson learned and best practices with the team and community by writing...",
+"url": "http://localhost:4000/openings/product/javascript-developer.html"
+},
+"openings-product-php-developer-html": {
+"title": "Software Developer (PHP)",
+"category": "",
+"content": "Remote / Luxembourg - FulltimePassbolt is hiring a PHP developer to design, extend and maintain our flagship product and its associated services. Your primary focus will on the server-side logic, ensuring high level of security, performance and responsiveness.Here is some example of current and upcoming work. The functionalities mentioned in the product roadmap. The migration of Passbolt API to Cakephp v4. A customer self-service portal (to contact support, download an invoice, etc.).Main responsibilities Engage in the product lifecycle as whole — from inception and design, through testing, development and support. Participate to the software analysis and design in order to provide detailed functional and technical specifications; Develop, deploy, maintain and improve software. Provide answers to the community questions and help troubleshoot issues. Write functional and unit tests in order to perform predictable product build and rapid release cycles. Share back findings, lesson learned and best practices with the team and...",
+"url": "http://localhost:4000/openings/product/php-developer.html"
+},
+"openings-product-sre-html": {
+"title": "Site Reliability Engineer",
+"category": "",
+"content": "Remote / Luxembourg - FulltimePassbolt is hiring a site reliability engineer to join the operation team.You will take an active part to design, develop, test and maintain highly-available, distributed, secure and sustainable IT services. You will join a growing and dynamic team committed to provide an exceptional experience to all passbolt community members.To facilitate integration with passbolt clients (browser, command line interface and in the future mobile) an understanding of front-end technologies is also required.Main responsibilities Engage in and improve the whole lifecycle of passbolt highly available services — from inception and design, through testing, deployment, operation and refinement. Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning and launch reviews. Maintain services once they are live by measuring and monitoring security, availability, latency and overall system health. Scale systems sustainably through mechanisms like automation, and evolve systems by...",
+"url": "http://localhost:4000/openings/product/sre.html"
+}
+}

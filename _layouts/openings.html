@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include common/head.html %}
+<body>
+<div id="container" class="careers page">
+{% include common/header.html %}
+    <div class="panel main" aria-label="Content">
+        <div class="panel left">
+            {% include sidebar/main.html selected=page.slug %}
+        </div>
+        <div class="panel middle" data-spy="scroll" data-target=".scrollspy">
+            <div class="grid grid-responsive-12">
+                <article>
+                    {% include breadcrumbs/default.html %}
+                    {% include common/page-title.html %}
+                    {% include layout/row_start.html %}
+                    {% include layout/col_start.html column="7" %}
+                    {{ content }}
+                    {% include date/updated.html %}
+                    {% include layout/col_end.html %}
+                    {% include layout/col_start.html column="4 last push1" %}
+                    {% include aside/apply.html %}
+                    {% include layout/row_end.html %}
+                </article>
+            </div>
+        </div>
+    </div>
+{% include common/footer.html %}
+</div>
+{% include common/analytics.html %}
+</body>
+</html>
