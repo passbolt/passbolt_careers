@@ -1,1 +1,1 @@
-Sitemap: https://passbolt.github.io/passbolt_careers//sitemap.xml
+Sitemap: https://careers.passbolt.com/sitemap.xml
