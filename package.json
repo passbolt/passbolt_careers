@@ -1,18 +1,18 @@
 {
-  "name": "passbolt_help",
+  "name": "passbolt_careers",
   "version": "2.0.0",
-  "description": "The help site for the open source password manager for teams",
+  "description": "",
   "repository": {
-    "url": "https://github.com/passbolt/passbolt_help"
+    "url": "https://github.com/passbolt/passbolt_careers"
   },
   "keywords": [
     "passbolt",
-    "help",
+    "careers",
     "jekyll"
   ],
   "author": "Passbolt SARL",
   "license": "AGPL-3.0",
-  "homepage": "https://www.passbolt.com",
+  "homepage": "https://careers.passbolt.com",
   "devDependencies": {
     "grunt": "^1.0.3",
     "grunt-contrib-copy": "^1.0.0",

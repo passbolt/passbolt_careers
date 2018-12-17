@@ -16,10 +16,7 @@
 title: Passbolt | Careers
 email: careers@passbolt.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The help site for passbolt, the open source password manager for teams.
-  This site contains frequently asked questions, article to troubleshoot common issues,
-  installation tutorials, blueprints for developers, and more!
-
+  Looking for a job? Passionate about Open Source software and security? Discover careers opportunities at passbolt.
 baseurl: ""
 url: "https://careers.passbolt.com"
 
