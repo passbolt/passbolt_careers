@@ -1,5 +1,6 @@
 <ul class="jobs-list">
     {% for opening in site.openings reversed %}
+    {% if opening.archived == true %}{% else %}
     <li>
         <a href="{{ opening.url | absolute_url }}">
             <span class="position">{{ opening.title }}</span>
@@ -15,5 +16,6 @@
             <span class="team">{{ opening.team }}</span>
         </a>
     </li>
+    {% endif %}
     {% endfor %}
 </ul>

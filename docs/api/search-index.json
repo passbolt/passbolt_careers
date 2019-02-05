@@ -23,8 +23,14 @@
 "openings-product-designer-html": {
 "title": "Designer (UX/UI)",
 "category": "",
-"content": "Remote / Luxembourg - FulltimePassbolt is seeking a designer with a background in web design. The successful candidate will have a portfolio demonstrating their skills, and experience collaborating with web developers. If you are passionate about security, open source and can craft elegant user interfaces we want to hear from you!Here is some example of current and upcoming work. The functionalities mentioned in the product roadmap. A mobile client for passbolt. An upgrade / refresh of our style guide.Main responsibilities Document user needs using personas and user stories. Create wireframes and user flows to help refine requirements and to communicate them to web developers. Facilitate design discussion with the community to help drive decisions. Iteratively extend passbolt styleguide.Required qualifications A strong portfolio of web design work samples, including mobile and responsive sites. 3+ years of professional design experience. Fluent in English, both verbal and written and preferably one other language....",
+"content": "Sorry, unfortunately this position has been filled.",
 "url": "https://careers.passbolt.com/openings/product/designer.html"
+},
+"openings-product-sre-html": {
+"title": "Site Reliability Engineer",
+"category": "",
+"content": "Sorry, unfortunately this position has been filled.",
+"url": "https://careers.passbolt.com/openings/product/sre.html"
 },
 "openings-product-font-end-developer-html": {
 "title": "Front-end Developer (JS/CSS)",
@@ -43,11 +49,5 @@
 "category": "",
 "content": "Remote / Luxembourg - FulltimePassbolt is hiring a PHP developer to design, extend and maintain our flagship product and its associated services. Your primary focus will on the server-side logic, ensuring high level of security, performance and responsiveness.Here is some example of current and upcoming work. The functionalities mentioned in the product roadmap. The migration of Passbolt API to Cakephp v4. A customer self-service portal (to contact support, download an invoice, etc.).Main responsibilities Engage in the product lifecycle as whole — from inception and design, through testing, development and support. Participate to the software analysis and design in order to provide detailed functional and technical specifications; Develop, deploy, maintain and improve software. Provide answers to the community questions and help troubleshoot issues. Write functional and unit tests in order to perform predictable product build and rapid release cycles. Share back findings, lesson learned and best practices with the team and...",
 "url": "https://careers.passbolt.com/openings/product/php-developer.html"
-},
-"openings-product-sre-html": {
-"title": "Site Reliability Engineer",
-"category": "",
-"content": "Remote / Luxembourg - FulltimePassbolt is hiring a site reliability engineer to join the operation team.You will take an active part to design, develop, test and maintain highly-available, distributed, secure and sustainable IT services. You will join a growing and dynamic team committed to provide an exceptional experience to all passbolt community members.Main responsibilities Engage in and improve the whole lifecycle of passbolt highly available services — from inception and design, through testing, deployment, operation and refinement. Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning and launch reviews. Maintain services once they are live by measuring and monitoring security, availability, latency and overall system health. Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity. Practice sustainable incident response and reporting. Design and maintain passbolt official containers and virtuals...",
-"url": "https://careers.passbolt.com/openings/product/sre.html"
 }
 }
