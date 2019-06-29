@@ -22,7 +22,6 @@ url: "https://careers.passbolt.com"
 
 twitter_username: passbolt
 github_username:  passbolt
-piwik: true
 
 # Build settings
 markdown: kramdown
