@@ -3,7 +3,7 @@
  * Provides tasks and commands to build and distribute the project
  *
  * @param grunt
- * @copyright (c) 2017 Passbolt SARL
+ * @copyright (c) 2019 Passbolt SA
  * @licence GNU Affero General Public License http://www.gnu.org/licenses/agpl-3.0.en.html
  */
 module.exports = function(grunt) {
