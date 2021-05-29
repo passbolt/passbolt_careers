@@ -4,23 +4,4 @@ slug: openings
 permalink: /openings.html
 layout: default
 ---
-<div class="row">
-    <div class="col7">
-        <h2>
-            We are looking for people who love to learn, make things and are excited about open source.
-        </h2>
-        <p>
-            If you cannot find a position that would work for you but still would like to join?
-            Do not hesitate to send us an email at
-            <a href="mailto:careers@passbolt.com">careers@passbolt.com</a> explaining why we should work together.
-            We may not have a job for you just yet, but we would love to hear from you.
-        </p>
-        <br><h2>Sorry there are no position open at the moment.</h2><br><br>
-        <p>
-            <a href="{{ '/apply' | absolute_url }}" class="button primary">Apply today!</a>
-        </p>
-    </div>
-    <div class="col4 push1 last">
-        <img src="{{ 'assets/img/careers/careers1.png' | absolute_url }}" alt="{{ include.legend }}" style="max-width:380px;margin-top:3em;"/>
-    </div>
-</div>
+{% include openings.html %}

@@ -1,21 +1,23 @@
-<ul class="jobs-list">
-    {% for opening in site.openings reversed %}
-    {% if opening.archived == true %}{% else %}
-    <li>
-        <a href="{{ opening.url | absolute_url }}">
-            <span class="position">{{ opening.title }}</span>
-            <span class="location">
-                {% for location in opening.locations %}
-                {% if location == opening.locations.last%}
-                {{ location }}
-                {% else %}
-                {{ location }} /
-                {% endif %}
-                {% endfor %}
-            </span>
-            <span class="team">{{ opening.team }}</span>
-        </a>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
+<div class="row">
+    <div class="col7">
+        <div id="BambooHR"><script src="https://passbolt.bamboohr.com/js/jobs2.php" type="text/javascript"></script><div id="BambooHR-Footer">Powered by<a href="http://www.bamboohr.com" target="_blank" rel="noopener external nofollow noreferrer"><img src="https://resources.bamboohr.com/images/footer-logo.png" alt="BambooHR - HR software"/></a></div></div>
+
+        <h2>Spontaneous application</h2>
+
+        <p>
+            We are always looking for people who love to learn, make things and are excited about open source.
+        </p>
+        <p>
+
+            If you cannot find a position that would work for you but still would like to join?
+            Do not hesitate to send us an email at
+            <a href="mailto:careers@passbolt.com">careers@passbolt.com</a> explaining why we should work together.
+            We may not have a job for you just yet, but we would love to hear from you.
+        </p>
+        <p>
+            <a href="{{ '/apply' | absolute_url }}" class="button primary">Apply today!</a>
+        </p>
+    </div>
+    <div class="col4 push1 last">
+    </div>
+</div>

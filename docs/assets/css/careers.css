@@ -42,3 +42,31 @@
     float:left;
     padding-right:.5em;
 }
+
+/* BAMBOO OVERRIDE */
+
+body #BambooHR-Footer {
+    display: none;
+}
+body .BambooHR-ATS-board ul ul.BambooHR-ATS-Jobs-List {
+    padding:0;
+    margin:0;
+    margin-bottom:.5em;
+    border:0;
+}
+body .BambooHR-ATS-board ul {
+    padding:0;
+    margin: 0;
+    margin-bottom:3em;
+    border:0;
+}
+body .BambooHR-ATS-Department-List .BambooHR-ATS-Department-Header {
+    font-size: 1.5em;
+    padding: .5em 0;
+}
+body .BambooHR-ATS-board h2 {
+    display:none;
+}
+body  .BambooHR-ATS-board li {
+    padding-left:0
+}
