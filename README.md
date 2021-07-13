@@ -19,7 +19,7 @@ The text is distributed under [Creative Common BY-SA-4.0](https://creativecommon
 
 This repository contains the code used for the job section of passbolt website.
 Find out more about passbolt here:
-[https://careers.passbolt.com](https://carreer.passbolt.com "Careers at Passbolt")
+[https://careers.passbolt.com](https://careers.passbolt.com "Careers at Passbolt")
 
 ### Quick start
 This site is developed using Jekyll.
